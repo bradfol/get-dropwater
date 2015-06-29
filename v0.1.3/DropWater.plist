@@ -15,6 +15,15 @@
         </dict>
         <dict>
           <key>kind</key>
+          <string>display-image</string>
+          <!-- optional. indicates if icon needs shine effect applied. -->
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>http://getdropwater.com/app-icon.png</string>
+        </dict>
+        <dict>
+          <key>kind</key>
           <string>full-size-image</string>
           <key>url</key>
           <string>http://getdropwater.com/appstore_512.png</string>
